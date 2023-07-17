@@ -6,7 +6,7 @@
 - Can be run on console for syslog messages in realtime
 - Drops syslog logfiles per host/day
 
-This has helped me a few times to debug networking issues. Maybe this helps someone, too.
+This has helped me a few times debugging networking issues, may it help someone elso too.
 
 ## Install / Use
 
